@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=1DF7D0&height=120&section=header&animation=fadeIn" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=2500&pause=1000&color=1DF7D0&background=FFFFFF00&random=false&width=520&lines=Hey+there%2C+I'm+Abhishek+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;MERN+Stack+%7C+Open+Source+Fan;Building+cool+stuff+on+the+web+%F0%9F%8C%90)](https://abhishekbuilds.me/)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=2500&pause=1000&color=1DF7D0&background=FFFFFF00&random=false&width=520&lines=Hey+there%2C+I'm+Abhishek+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;MERN+Stack+%7C+Open+Source+Fan;Building+cool+stuff+on+web+%F0%9F%8C%90)](https://abhishekbuilds.me/)
 
 <p>
   <a href="https://abhishekbuilds.me/" target="_blank">
